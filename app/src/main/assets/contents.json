@@ -1,0 +1,482 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Konosuba Edition",
+      "publisher": "Yosimora",
+      "tray_image_file": "tray_konosuba.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "yosimoraid@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🛎️",
+            "🔔"
+          ],
+          "accessibility_text": "A smiling, white cup contains a brown drink."
+        },
+        {
+          "image_file": "02_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😄",
+            "😀"
+          ],
+          "accessibility_text": "A laughing, white cup is tilted to the right and contains a brown drink."
+        },
+        {
+          "image_file": "03_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😆",
+            "😂"
+          ],
+          "accessibility_text": "A laughing and crying white cup is tilted to the right as if shaking. It contains a brown drink."
+        },
+        {
+          "image_file": "04_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😩",
+            "😰"
+          ],
+          "accessibility_text": "A crying, white cup is half full and leaking brown liquid."
+        },
+        {
+          "image_file": "05_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😭",
+            "💧"
+          ],
+          "accessibility_text": "A crying, white cup is upside-down with brown liquid spilled around it."
+        },
+        {
+          "image_file": "06_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😍",
+            "♥"
+          ],
+          "accessibility_text": "A white cup is next to two red hearts. It contains coffee with white foam in the shape of a heart on top."
+        },
+        {
+          "image_file": "07_konosuba.webp",
+          "emojis": [
+            "💬",
+            "💔",
+            "👎"
+          ],
+          "accessibility_text": "A white cup contains coffee with white foam in the shape of a broken heart on top."
+        },
+        {
+          "image_file": "08_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😍",
+            "💑"
+          ],
+          "accessibility_text": "Two smiling cups are below two red hearts. One cup is white, and one is black. They contain a brown drink."
+        },
+        {
+          "image_file": "09_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😘",
+            "🍪"
+          ],
+          "accessibility_text": "A smiling, white cup looks at a cookie and a red heart. It contains coffee with white foam in the shape of a heart on top."
+        },
+        {
+          "image_file": "10_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🤔",
+            "😐"
+          ],
+          "accessibility_text": "A sad, white cup seems to shake. It contains a brown drink."
+        },
+        {
+          "image_file": "11_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😱",
+            "😵"
+          ],
+          "accessibility_text": "A shocked, white cup is tilted to the left with brown liquid splashing out of it."
+        },
+        {
+          "image_file": "12_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😡",
+            "😠"
+          ],
+          "accessibility_text": "An angry, red cup has three red lightning bolts coming out of it."
+        },
+        {
+          "image_file": "13_konosuba.webp",
+          "emojis": [
+            "💬",
+            "❓",
+            "🤔"
+          ],
+          "accessibility_text": "An expressionless, white cup has two brown question marks above it. It contains a brown drink."
+        },
+        {
+          "image_file": "14_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🌈",
+            "😜"
+          ],
+          "accessibility_text": "A shocked, white cup has a rainbow pouring into it. It has pink cheeks, shining eyes and an open mouth."
+        },
+        {
+          "image_file": "15_konosuba.webp",
+          "emojis": [
+            "💬",
+            "💻",
+            "😩"
+          ],
+          "accessibility_text": "A snoring, white cup is next to a shadowy laptop with text that reads :(@#%&. It has crosses for eyes and an open mouth."
+        },
+        {
+          "image_file": "16_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😡",
+            "😤"
+          ],
+          "accessibility_text": "An angry, red cup stares. It has brown spikes at its base and contains blue liquid."
+        },
+        {
+          "image_file": "17_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😩",
+            "😨"
+          ],
+          "accessibility_text": "A tired, grey cup is under a low battery symbol. It's half-full and leaking a dark liquid. It has red eyes and an open mouth"
+        },
+        {
+          "image_file": "18_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😔",
+            "😨"
+          ],
+          "accessibility_text": "A drooling, white cup stares at a laptop next to a window showing a moon and stars. It has red, shining eyes."
+        },
+        {
+          "image_file": "19_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🎉",
+            "✨"
+          ],
+          "accessibility_text": "A laughing, white cup is under four yellow stars and a yellow beam of light. It contains a brown drink."
+        },
+        {
+          "image_file": "20_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🤮",
+            "👎"
+          ],
+          "accessibility_text": "A miserable, grey cup vomits green liquid. It contains a green, bubbly liquid."
+        },
+        {
+          "image_file": "21_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🖐",
+            "🙋"
+          ],
+          "accessibility_text": "A happy, white cup with a brown lid holds its arms up."
+        },
+        {
+          "image_file": "22_konosuba.webp",
+          "emojis": [
+            "💬",
+            "🖐",
+            "👋"
+          ],
+          "accessibility_text": "A happy, white cup with a brown lid waves."
+        },
+        {
+          "image_file": "23_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "24_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "25_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "26_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "27_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "28_konosuba.webp",
+          "emojis": [
+            "💬",
+            "😵"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Cat Meme Edition",
+      "publisher": "Yosimora",
+      "tray_image_file": "tray_cat.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "yosimoraid@gmail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_cat.webp",
+          "emojis": [
+            "💕",
+            "😘",
+            "❤️"
+          ],
+          "accessibility_text": "A red paper heart is folded into an aerodynamic shape. It zooms around in a spiral."
+        },
+        {
+          "image_file": "02_cat.webp",
+          "emojis": [
+            "✊",
+            "💪",
+            "🙏"
+          ],
+          "accessibility_text": "A blue sash with white text that reads \"We'll do this together\" in English is wrapped around a beige arm. As the arm moves up and down, its clenched fist turns into an open palm."
+        },
+        {
+          "image_file": "03_cat.webp",
+          "emojis": [
+            "❤️",
+            "😘",
+            "💕"
+          ],
+          "accessibility_text": "A smiling red heart has eyes, a mouth and blushing cheeks. It beats a few times to make four smaller hearts appear in front of it."
+        },
+        {
+          "image_file": "04_cat.webp",
+          "emojis": [
+            "🖐",
+            "🙌",
+            "✋"
+          ],
+          "accessibility_text": "Two people high five without touching with large pink text that reads \"Air high five\" in English in-between them. One has long blue hair and pink skin. The other has short gray hair and brown skin. "
+        },
+        {
+          "image_file": "05_cat.webp",
+          "emojis": [
+            "📱",
+            "👯",
+            "👋"
+          ],
+          "accessibility_text": "A smartphone screen devides into four sections to reveal two waving people and two smiling people."
+        },
+        {
+          "image_file": "06_cat.webp",
+          "emojis": [
+            "📱",
+            "🙋‍♀",
+            "🙋‍♂"
+          ],
+          "accessibility_text": "Two people wave at each other from their windows. One has brown skin and long black hair. The other has beige skin and short black hair. "
+        },
+        {
+          "image_file": "07_cat.webp",
+          "emojis": [
+            "👍",
+            "👌",
+            "🙂"
+          ],
+          "accessibility_text": "A green speech bubble appears with text that reads \"OK!\" in English."
+        },
+        {
+          "image_file": "08_cat.webp",
+          "emojis": [
+            "👋",
+            "❓",
+            "📱"
+          ],
+          "accessibility_text": "A green smartphone vibrates as text that reads \"Are you okay?\" in English appears on the screen."
+        },
+        {
+          "image_file": "09_cat.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🏠"
+          ],
+          "accessibility_text": "A red mug with text that reads \"Staying home\" in English rocks from side-to-side to make a brown drink splash out of it."
+        },
+        {
+          "image_file": "10_cat.webp",
+          "emojis": [
+            "👩‍💻",
+            "👨‍💻",
+            "🛏"
+          ],
+          "accessibility_text": "A person sits in bed with a pink comforter wrapped around them while typing on a laptop. The person has dark beige skin and a black fringe."
+        },
+        {
+          "image_file": "11_cat.webp",
+          "emojis": [
+            "☕",
+            "🍵",
+            "🤙"
+          ],
+          "accessibility_text": "A calm person sits with their legs crossed before moving their arms into a meditation pose. The person has dark pink skin and a blue turban."
+        },
+        {
+          "image_file": "12_cat.webp",
+          "emojis": [
+            "🤸",
+            "🐩",
+            "💪"
+          ],
+          "accessibility_text": "A standing person breathes in and out while stretching to the side. A white poodle also stretches. The person has dark pink skin and black curly hair in a yellow sweat band."
+        },
+        {
+          "image_file": "13_cat.webp",
+          "emojis": [
+            "📰",
+            "🔎",
+            "🔍"
+          ],
+          "accessibility_text": "A searching woman holds two magnifying glasses to her eyes. She switches between them to make each eye appear larger. She has beige skin and black hair."
+        },
+        {
+          "image_file": "14_cat.webp",
+          "emojis": [
+            "🐈",
+            "🐱",
+            "💻"
+          ],
+          "accessibility_text": "A peaceful ginger cat lies on a laptop's keyboard. It taps its front paws to make the screen display change."
+        },
+        {
+          "image_file": "15_cat.webp",
+          "emojis": [
+            "👩‍💻",
+            "🏠",
+            "💻"
+          ],
+          "accessibility_text": "A woman holds a laptop while wearing a pink top and glasses. The view zooms out to reveal her spotty pajama bottoms and bear slippers. She has beige skin and ginger hair."
+        },
+        {
+          "image_file": "16_cat.webp",
+          "emojis": [
+            "👨‍💻",
+            "🏠",
+            "💻"
+          ],
+          "accessibility_text": "A man holds a laptop while wearing a green shirt, a red tie and glasses. The view zooms out to reveal his pajama shorts and bunny slippers. He has beige skin and ginger hair."
+        },
+        {
+          "image_file": "17_cat.webp",
+          "emojis": [
+            "✋",
+            "💦",
+            "🤧"
+          ],
+          "accessibility_text": "A beige hand with a smiley face holds a white bar of soap with a smiley face while surrounded by blue bubbles. The soap spins around as the hand squeezes it."
+        },
+        {
+          "image_file": "18_cat.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🤧"
+          ],
+          "accessibility_text": "A man wears a transparent sphere on his head and a green jumper covered in green slime. He pokes the sphere and looks surpised. He has beige skin and ginger hair.  "
+        },
+        {
+          "image_file": "19_cat.webp",
+          "emojis": [
+            "😷",
+            "🤒",
+            "🏠"
+          ],
+          "accessibility_text": "A man uses a giant red pencil to draw a circle around himself. A large transparent dome appears around him. He has brown skin and black hair."
+        },
+        {
+          "image_file": "20_cat.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🤒"
+          ],
+          "accessibility_text": "A person wears a face mask, a stethoscope, blue scrubs and a red cap with a cross. The person stands akimbo as a red superhero's cape starts flowing.  The person has beige skin and black hair."
+        },
+        {
+          "image_file": "21_cat.webp",
+          "emojis": [
+            "🙏",
+            "🎉",
+            "✨"
+          ],
+          "accessibility_text": "Large, multi-colored text that reads \"hero\" in English is below a green sash. Small, white text that reads \"You're my\" in English appears on the sash. The combined text reads \"You're my hero\" in English."
+        },
+        {
+          "image_file": "22_cat.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🤒"
+          ],
+          "accessibility_text": "A person wears a face mask, a stethoscope, blue scrubs and a red cap with a cross. The person stands akimbo as a red superhero's cape starts flowing.  The person has beige skin and black hair."
+        },
+        {
+          "image_file": "23_cat.webp",
+          "emojis": [
+            "👩‍⚕",
+            "👨‍⚕️",
+            "🤒"
+          ],
+          "accessibility_text": "A person wears a face mask, a stethoscope, blue scrubs and a red cap with a cross. The person stands akimbo as a red superhero's cape starts flowing.  The person has beige skin and black hair."
+        }
+      ]
+    }
+  ]
+    }
+          
